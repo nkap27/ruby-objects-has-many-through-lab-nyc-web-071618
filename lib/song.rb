@@ -1,5 +1,5 @@
 class Song
-  def initialize(song)
+  def initialize(name, artist, genre)
     @song = song
   end
 end
