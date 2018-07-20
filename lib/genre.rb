@@ -4,7 +4,7 @@ class Genre
     @genre = genre
   end
 
-  def genre
+  def genres
     @genre
   end
 
