@@ -1,5 +1,5 @@
 class Genre
   def initialize(genre)
-    @argument = argument
+    @genre = genre
   end
 end
