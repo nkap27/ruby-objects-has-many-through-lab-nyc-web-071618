@@ -13,9 +13,7 @@ attr_accessor :name, :artist, :genre
 
   def self.songs
     @@songs
-    
-    
   end
 
-  
+
 end
