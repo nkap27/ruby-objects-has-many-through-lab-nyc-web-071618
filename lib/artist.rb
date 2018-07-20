@@ -5,7 +5,8 @@ class Artist
     @name = name
   end
 
-  def new_song(name, genre)
+  def name
+    @name
   end
 
 end
