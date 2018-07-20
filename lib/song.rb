@@ -10,4 +10,7 @@ attr_accessor :name, :artist, :genre
     @genre = genre
     @@songs << self
   end
+
+
+
 end
