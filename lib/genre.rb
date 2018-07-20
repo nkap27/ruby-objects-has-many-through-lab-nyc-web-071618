@@ -5,6 +5,7 @@ class Genre
   end
 
   def genre
+    @genre
   end
 
 end
